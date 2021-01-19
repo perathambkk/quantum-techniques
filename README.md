@@ -1,5 +1,5 @@
 # quantum-techniques
-A collection of quantum information/algorithm codes in python's Qiskit.
+A collection of quantum information/algorithm codes in python's [Qiskit](https://qiskit.org/).
 
 ## Requirements
 Install requirements.txt file to make sure correct versions of libraries are being used.
