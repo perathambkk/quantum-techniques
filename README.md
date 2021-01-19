@@ -9,7 +9,7 @@ Install requirements.txt file to make sure correct versions of libraries are bei
 * qiskit==0.23.2
 
 also, ```pip install git+https://github.com/qiskit-community/qiskit-textbook.git#subdirectory=qiskit-textbook-src```
-as depicted in [Qiskit's textbook](https://qiskit.org/textbook/ch-prerequisites/setting-the-environment.html).
+as depicted in [the Qiskit's textbook](https://qiskit.org/textbook/ch-prerequisites/setting-the-environment.html).
 
 ## License
 
