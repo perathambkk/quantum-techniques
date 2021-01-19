@@ -1,5 +1,5 @@
 # quantum-techniques
-A collection of quantum information/algorithm codes in python's [Qiskit](https://qiskit.org/).\
+A collection of quantum information/algorithm codes in python's [Qiskit](https://qiskit.org/) from IBM.\
 Some are from [the Qiskit's textbook](https://qiskit.org/textbook).
 
 ## Requirements
