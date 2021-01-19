@@ -8,8 +8,8 @@ Install requirements.txt file to make sure correct versions of libraries are bei
 * Jupyterlab==3.0.5
 * qiskit==0.23.2
 
-also, pip install git+https://github.com/qiskit-community/qiskit-textbook.git#subdirectory=qiskit-textbook-src
-as depicted in [Qiskit's textbook](https://qiskit.org/textbook/ch-prerequisites/setting-the-environment.html)
+also, ```pip install git+https://github.com/qiskit-community/qiskit-textbook.git#subdirectory=qiskit-textbook-src```
+as depicted in [Qiskit's textbook](https://qiskit.org/textbook/ch-prerequisites/setting-the-environment.html).
 
 ## License
 
