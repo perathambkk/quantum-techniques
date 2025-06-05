@@ -12,7 +12,7 @@ Install requirements.txt file to make sure correct versions of libraries are bei
 also, ```pip install git+https://github.com/qiskit-community/qiskit-textbook.git#subdirectory=qiskit-textbook-src```
 as depicted in [the Qiskit's textbook setting the environment](https://qiskit.org/textbook/ch-prerequisites/setting-the-environment.html). 
 
-The codes/notebooks should be compatible with most qiskit versions, since recent qiskits do not use Aer and the syntax has changed a lot for the simulator part. The circuit part is pretty much the same ever.
+The codes/notebooks should be compatible with most qiskit versions, since recent qiskits do not use Aer and the syntax has changed a lot for the simulator part. The circuit part is pretty much the same ever. (noted: 5 Jun 2025)
 
 ## License
 
